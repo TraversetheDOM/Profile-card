@@ -1,0 +1,5 @@
+@media screen and (min-width: 87.5em) {
+  .section {
+    background-position: right 45vw bottom 50vh, left 50vw top 50vh;
+  }
+}
