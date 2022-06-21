@@ -1,35 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
-  <title>Frontend Mentor | Profile card component</title>
+    <!-- CSS Links -->
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/queries.css" />
 
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
-</head>
-<body>
-  Victor Crest
-  26
-  London
+    <!-- Google Fonts Links  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
 
-  80K
-  Followers
+    <!-- FAVICON -->
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
 
-  803K
-  Likes
-
-  1.4K
-  Photos
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
-  </div>
-</body>
+    <title>Frontend Mentor | Profile card component</title>
+  </head>
+  <body>
+    <!-- main -->
+    <main>
+      <section class="section">
+        <div class="profile_card">
+          <figure class="background_img">
+            <img
+              src="images/bg-pattern-card.svg"
+              alt=""
+              class="background_card-img"
+            />
+          </figure>
+          <div class="user_info">
+            <img
+              src="images/image-victor.jpg"
+              class="profile_img"
+              alt=""
+              width="96"
+              height="96"
+            />
+            <h1 class="profile_name">
+              Victor Crest
+              <span class="profile_age">26</span>
+            </h1>
+            <p class="city">London</p>
+          </div>
+          <div class="stats">
+            <div class="followers_data">
+              <p class="followers_number">80K</p>
+              <p class="followers_title">Followers</p>
+            </div>
+            <div class="likes_data">
+              <p class="likes_number">803K</p>
+              <p class="likes_title">Likes</p>
+            </div>
+            <div class="photos_data">
+              <p class="photos_number">1.4K</p>
+              <p class="photos_title">Photos</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
 </html>
