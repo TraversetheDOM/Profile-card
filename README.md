@@ -33,8 +33,8 @@ _A mobile view of the profile card_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/Profile-card)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/Profile-card/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/Profile-card)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/Profile-card/)
 
 ## My process
 
