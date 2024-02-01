@@ -33,8 +33,8 @@ _A mobile view of the profile card_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/Profile-card)
-- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/Profile-card/)
+- Solution URL: [Add solution URL here](https://github.com/stephenikuomola/Profile-card)
+- Live Site URL: [Add live site URL here](https://stephenikuomola.github.io/Profile-card/)
 
 ## My process
 
@@ -76,6 +76,6 @@ I want to keep carrying out more projects to get better at CSS and how to implem
 
 ## Author
 
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin- [Ikuomola Stephen](https://www.linkedin.com/in/ikuomola-stephen/)
-- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/salutDami)
+- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/stephenikuomola)
